@@ -1,9 +1,9 @@
 ---
-title: Matt Daniels CV
+title: CV
 layout: cv
 ---
 
-# Matt Daniels
+# [Matt Daniels](../)
 
 <div id="webaddress">
 <a href="mattd25@uw.edu">mattd25@uw.edu</a>
